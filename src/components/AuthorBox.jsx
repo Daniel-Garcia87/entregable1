@@ -1,4 +1,4 @@
-import "./styles/Authorbox.css"
+import "./styles/AuthorBox.css"
 
 const Authorbox = ({author}) => {
     return (
