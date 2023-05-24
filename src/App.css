@@ -1,0 +1,35 @@
+.app {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: grid;
+    justify-items: center;
+    
+}
+
+.app.sp1{
+    background-image: url(/public/images/sp1.jpg)
+}
+
+.app.sp2{
+    background-image: url(/public/images/sp2.jpg);
+}
+
+.app.sp3{
+    background-image: url(/public/images/sp3.jpg);
+}
+
+.app.sp4{
+    background-image: url(/public/images/sp4.jpg);
+}
+
+.app__container {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    align-items: center;
+    justify-items: center;
+    width: 90% ;
+    
+}
+
+

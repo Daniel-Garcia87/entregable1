@@ -1,0 +1,11 @@
+.app__info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    color: #ffff;
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+    width: auto;
+}

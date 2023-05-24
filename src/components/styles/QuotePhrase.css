@@ -1,0 +1,14 @@
+.quote__phrase {    
+    display: flex;
+    flex-direction: row;
+    color: black;
+    padding: 20px 33px;   
+    width:   auto;
+    height:  auto ;
+    border-radius: 2rem;
+    background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.33) 100%);
+    font-size: 16px;
+    font-family: 'Press Start 2P', cursive;
+    line-height: 1.5;
+    text-align: center;
+}
